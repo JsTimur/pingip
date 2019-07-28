@@ -1,0 +1,10 @@
+.group-item-box .child-ip-box { display: none; }
+.group-item-box .fa, .js-add-group, .js-refresh-history { font-size: 20px; margin-left: 10px; color:#555; }
+.group-item-box .fa:hover, .js-add-group:hover, .js-refresh-history:hover { color: #24a4bf; }
+.js-add-group, .js-refresh-history { font-size: 25px; position: relative; top: 3px;}
+.js-refresh-history { font-size: 20px; }
+.group-item-box .js-show-ips { margin-left:  0; margin-right: 10px;  }
+ 
+.history-list .result { font-size: .9rem; } 
+
+.cursor-pointer { cursor: pointer; }
